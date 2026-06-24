@@ -1,0 +1,22 @@
+{
+    "file_paths": [
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251027",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251027",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029.xlsx",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251029",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251217",
+        "DATA-Y112C\\20251217",
+        "DATA-Y112C\\20251218",
+        "DATA-Y112C\\20251218",
+        "C:/Users/Administrator/Desktop/DATA-Y112C\\20251218",
+        "DATA-Y112C\\20251218"
+    ]
+}

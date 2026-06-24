@@ -1,0 +1,4 @@
+pandas
+psutil
+openpyxl
+XlsxWriter
